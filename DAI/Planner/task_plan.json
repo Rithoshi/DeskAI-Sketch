@@ -1,0 +1,10 @@
+{
+    "script": "C:\\Users\\elmik\\Downloads\\DAI\\Planner\\task_script.bat",
+    "language": "bat",
+    "critic": {
+        "status": "PASSED",
+        "reason": "El código es correcto y ejecutable",
+        "original_task": "Reproduce Soy raka de Los Rakas en mi navegador predeterminado"
+    },
+    "attempts": 1
+}

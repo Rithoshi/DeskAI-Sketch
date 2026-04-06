@@ -1,0 +1,33 @@
+[
+    {
+        "input": "Reproduce Soy Raka de Los Rakas en youtube music en mi navegador predeterminado",
+        "classification": "Tarea"
+    },
+    {
+        "input": "Hola!",
+        "classification": "Chat",
+        "response": "\u00a1Hola! \u00bfC\u00f3mo est\u00e1s? \u00bfEn qu\u00e9 puedo ayudarte hoy?"
+    },
+    {
+        "input": "Reproduce Soy Raka de Los Rakas en youtube en mi navegador predeterminado",
+        "classification": "Tarea"
+    },
+    {
+        "input": "Hola, que tal todo?",
+        "classification": "Chat",
+        "response": "Hola! Estoy bien, gracias. \u00bfY t\u00fa? \u00bfEn qu\u00e9 puedo ayudarte hoy?"
+    },
+    {
+        "input": "Reproduce %60 Daily ZZZ del ost de zzz en mi navegador predeterminado",
+        "classification": "Tarea"
+    },
+    {
+        "input": "Hola, que tal?",
+        "classification": "Chat",
+        "response": "Hola! Estoy bien, gracias. \u00bfY t\u00fa? \u00bfEn qu\u00e9 puedo ayudarte hoy?"
+    },
+    {
+        "input": "Reproduce Soy raka de Los Rakas en mi navegador predeterminado",
+        "classification": "Tarea"
+    }
+]
